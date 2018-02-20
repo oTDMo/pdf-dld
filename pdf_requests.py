@@ -21,4 +21,6 @@ data = {
 
 data = json.dumps(data)
 
-print(data)
+# use data as payload to push pdf into database via another api call
+
+# print(data)
